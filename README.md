@@ -4,3 +4,5 @@ Description in title, a small project I did for ListenLabs where I decided to le
 Included in `rl_agent.ipynb` are all of my environment code, synthetic data creation, and analysis + visualizations on reward signal effects for goal completion.
 
 Included in `test_model_on_puzzle.ipynb` is the trained model put to the test on the actual puzzle, beating GPT-5 on the leaderboard.
+
+*Python 3.12 was used*
